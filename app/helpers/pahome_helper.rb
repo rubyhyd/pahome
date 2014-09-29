@@ -1,0 +1,2 @@
+module PahomeHelper
+end
