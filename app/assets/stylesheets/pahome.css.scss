@@ -76,7 +76,27 @@
   }
 
   .background-cover {
-    background: image-url("main.jpg")
+    background-size: cover !important
+  }
+
+  .background-cover1 {
+    background: image-url("main1.jpg")
+  }
+
+  .background-cover2 {
+    background: image-url("main2.jpg")
+  }
+
+  .background-cover3 {
+    background: image-url("main3.jpg")
+  }
+
+  .background-cover4 {
+    background: image-url("main4.jpg")
+  }
+
+  .background-cover5 {
+    background: image-url("main5.jpg")
   }
 
   .carousel-caption-center {
@@ -104,10 +124,6 @@
       color: rgba(255, 255, 255, 0.9)
     }
   }
-}
-
-.background-cover {
-    background-size: cover !important
 }
 
 .overlay-bg {
